@@ -74,7 +74,7 @@ Eve Black: 50.00% Present
 
 
 ## Solution
-
+"""
 employees = [(101, "Alice Johnson", "HR"),(102, "Bob Smith", "IT"),(103, "Charlie Brown", "Finance"),(104, "David White", "IT"),(105, "Eve Black", "Marketing")]
 attendance_records = [(101, "2025-03-01", "Present"),(102, "2025-03-01", "Absent"),(103, "2025-03-01", "Present"),(104, "2025-03-01", "Present"),(105, "2025-03-01", "Absent"),]
 
@@ -99,3 +99,4 @@ mark_attendance(104, "2025-03-02", "Present")
 mark_attendance(105, "2025-03-02", "Present")
 
 search_attendance(102)
+"""
